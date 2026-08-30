@@ -1,3 +1,4 @@
+<img width="3000" height="3000" alt="30130" src="https://github.com/user-attachments/assets/9aadab98-89b0-4f5f-8662-f3162b8f2c9e" />
 #### What is this?
 
 Inspired by [Lumen](https://lumendatabase.org/topics/1) (*formerly Chilling Effects*) and [Google](https://cloud.google.com/storage/docs/dmca), this repo contains the text of DMCA takedown notices and counter-notices we've received here at GitHub. We publish them as they are received, redacting only private information, as well as URLs reported but that we determined were not actionable under the DMCA.
